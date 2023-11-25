@@ -4,7 +4,15 @@
 
 - Juan Esteban Duque Taborda (A00376778)
 - Juan Camilo Bernal Marín (A00375413)
-- Cristian Felipe Perafan Chilito (A00)  
+- Cristian Felipe Perafán Chilito (A00)  
+
+## Abstract
+
+This article delves into a comprehensive exploration of sentiment analysis, employing advanced machine learning techniques on the Sentiment Labelled Sentences dataset. The code implementation encompasses a transducer method and the creation of a sentiment analysis class, utilizing pyformlang, scikit-learn and Keras.
+
+The study proceeds with a detailed code demonstration for data collection, preprocessing, and supervised learning using the NLTK library. A DummyClassifier serves as a baseline model, paving the way for the creation and evaluation of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) models. Hyperparameter tuning and metric assessments, including accuracy, precision, recall, and F1-score, reveal the superior performance of advanced deep learning architectures over the baseline.
+
+A meticulous analysis of results showcases the strengths and weaknesses of each model, providing valuable insights into the nuances of sentiment capture.
 
 # Introduction
 
